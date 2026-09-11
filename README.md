@@ -244,4 +244,4 @@ This repository serves as the official landing page for Speedtest. The software 
 **Get the most recent version of Speedtest today!**
 
 ---
-**Last updated:** 2026-09-10 22:56:51 UTC
+**Last updated:** 2026-09-11 00:52:43 UTC
